@@ -3,15 +3,15 @@
 ## 📄 Overview
 In this project, I optimized a raw e-commerce dataset for downstream analysis by implementing a systematic cleaning workflow in Excel. Beyond resolving inconsistencies in order and regional data, I established a comprehensive log of data limitations and quality checks to ensure transparency and reliability for future strategic use
 
+## 📊 Dataset
+- `Orders` Table: ~20,000 rows of customer orders and transaction details
+- `Region` Table: Country and region codes
+
 ## 🧹 Cleaning Objectives
 - Refine structural formatting
 - Mitigate data gaps and inconsistencies
 - Normalize categorical and numeric variables
 - Optimize data schemas for analytical readiness
-
-## 📊 Dataset
-- `Orders` Table: ~20,000 rows of customer orders and transaction details
-- `Region` Table: Country and region codes
 
   ## 🛠️ Issues Log & Resolutions
 
