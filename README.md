@@ -19,7 +19,8 @@ In this project, I optimized a raw e-commerce dataset for downstream analysis by
 - `Issues Log` – Tabular format of the issues above
 - All can be found in the excel workbook [here!](https://github.com/hyunchoulgil/data-cleaning-project-/blob/main/gamezone-orders-data.xlsx)
 
-  ## 🛠️ Issues Log & Resolutions
+
+## 🛠️ Issues Log & Resolutions
 
 | Table  | Column(s)                      | Issue Description                                                | Row Count | Magnitude | Solvable | Resolution                                                      |
 |--------|--------------------------------|------------------------------------------------------------------|-----------|-----------|----------|-----------------------------------------------------------------|
