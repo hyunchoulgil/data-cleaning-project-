@@ -37,3 +37,11 @@ In this project, I optimized a raw e-commerce dataset for downstream analysis by
 - `Orders_Cleaned`, `Regions_Cleaned` – Cleaned version with corrections
 - `Issues Log` – Tabular format of the issues above
 - - All can be found in the excel workbook [here!](https://github.com/hyunchoulgil/data-cleaning-project-/blob/main/gamezone-orders-data.xlsx)
+ 
+## 🧠 Notes
+- Flagged remaining issues for team feedback
+- Built a ready-to-use dataset for analysis
+
+## 📬 Contact
+For any questions or suggestions, feel free to open an issue or contact me.
+mailto:khc13258@gmail.com
