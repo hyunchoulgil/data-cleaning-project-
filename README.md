@@ -1,4 +1,4 @@
-# Gamezone Ecommerce Orders – Data Cleaning Project
+# Gamezone Orders Data Cleaning Project
 
 ## 📄 Overview
 In this project, I optimized a raw e-commerce dataset for downstream analysis by implementing a systematic cleaning workflow in Excel. Beyond resolving inconsistencies in order and regional data, I established a comprehensive log of data limitations and quality checks to ensure transparency and reliability for future strategic use
