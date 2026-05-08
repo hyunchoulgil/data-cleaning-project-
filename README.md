@@ -13,6 +13,12 @@ In this project, I optimized a raw e-commerce dataset for downstream analysis by
 - Normalize categorical and numeric variables
 - Optimize data schemas for analytical readiness
 
+## 📁 Files
+- `Orders`, `Regions` – Original dataset (anonymized)
+- `Orders_Cleaned`, `Regions_Cleaned` – Cleaned version with corrections
+- `Issues Log` – Tabular format of the issues above
+- - All can be found in the excel workbook [here!](https://github.com/hyunchoulgil/data-cleaning-project-/blob/main/gamezone-orders-data.xlsx)
+
   ## 🛠️ Issues Log & Resolutions
 
 | Table  | Column(s)                      | Issue Description                                                | Row Count | Magnitude | Solvable | Resolution                                                      |
@@ -31,12 +37,6 @@ In this project, I optimized a raw e-commerce dataset for downstream analysis by
 | Orders | ACCOUNT_CREATION_METHOD        | "unknown" entries                                                | 743       | 3.40%     | No       | Unaltered, awaiting stakeholder input                           |
 | Orders | COUNTRY_CODE                   | Blank values                                                     | 37        | 0.17%     | No       | Unaltered, needs stakeholder validation                         |
 | Orders | SHIP_TS                        | Shipping date earlier than purchase date                        | 2003      | 9.17%     | No       | Left for further revalidation in shipping analysis              |
-
-## 📁 Files
-- `Orders`, `Regions` – Original dataset (anonymized)
-- `Orders_Cleaned`, `Regions_Cleaned` – Cleaned version with corrections
-- `Issues Log` – Tabular format of the issues above
-- - All can be found in the excel workbook [here!](https://github.com/hyunchoulgil/data-cleaning-project-/blob/main/gamezone-orders-data.xlsx)
  
 ## 🧠 Notes
 - Flagged remaining issues for team feedback
